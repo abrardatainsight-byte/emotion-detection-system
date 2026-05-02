@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
+pydantic
+transformers
+Pillow
+numpy
+matplotlib
+seaborn
+scikit-learn
+python-multipart
